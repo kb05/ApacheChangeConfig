@@ -3,7 +3,7 @@
 A simple graphic script wich allows you to easily change the configuration activated in the apache
 
 
-![Script-Image](-----------)
+![Script-Image](https://raw.githubusercontent.com/kb05/ApacheChangeConfig/master/apacheConfig.png)
 
 
 #### Requirements
